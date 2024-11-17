@@ -1,5 +1,5 @@
 # hassio-supervisor-installer
-在任何Debian及其分支上安装Hass.io Supervisor
+在任何Debian及其分支上安装Hass.io Supervisor  
 Script for installing Hass.io Supervisor on any Debian and its derivatives  
 
 理论上适用于所有架构，但只测试了`armv7l`可用  
