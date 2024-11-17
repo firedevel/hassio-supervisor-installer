@@ -3,7 +3,7 @@
 Script for installing Hass.io Supervisor on any Debian and its derivatives  
 
 理论上适用于所有架构，但只测试了`armv7l`可用  
-Theoretically applicable to all architectures, but only tested to be available on armv7l.
+Theoretically applicable to all architectures, but only tested to be available on `armv7l`
 
 脚本将安装（更新）`Docker、os-agent`与以下包  
 The script will install(update) `Docker、os-agent` and  
